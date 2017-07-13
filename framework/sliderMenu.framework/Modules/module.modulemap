@@ -1,0 +1,10 @@
+framework module sliderMenu {
+  umbrella header "sliderMenu.h"
+
+  export *
+  module * { export * }
+}
+
+module sliderMenu.Swift {
+    header "sliderMenu-Swift.h"
+}
