@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "sliderMenu"
-  s.version          = "0.1.2"
+  s.version          = "0.1.4"
   s.summary          = "left slider Menu."
  
   s.description      = <<-DESC
@@ -14,5 +14,5 @@ The sliderMenu  enables you to  easily make left slider menu!
  
   s.ios.deployment_target = '10.0'
   s.source_files = 'sliderMenu/*.{h}'
-  s.ios.vendored_frameworks = 'Products/sliderMenu.framework'
+  s.ios.vendored_frameworks = 'framework/sliderMenu.framework'
 end
