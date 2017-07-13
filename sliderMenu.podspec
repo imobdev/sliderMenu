@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "sliderMenu"
-  s.version          = "0.1.1"
+  s.version          = "0.1.2"
   s.summary          = "left slider Menu."
  
   s.description      = <<-DESC
@@ -13,7 +13,6 @@ The sliderMenu  enables you to  easily make left slider menu!
   s.source           = { :git => 'https://github.com/imobdev/sliderMenu.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files = 'sliderMenu/*.{swift,h}'
-  s.resources = "sliderMenu/*.{xib}"
+  s.framework    = 'sliderMenu'
  
 end
