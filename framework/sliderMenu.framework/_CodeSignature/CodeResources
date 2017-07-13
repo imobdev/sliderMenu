@@ -20,6 +20,14 @@
 		<data>
 		cxfFOfrsnY7uwxQCr2QCPMZ/CBQ=
 		</data>
+		<key>Modules/sliderMenu.swiftmodule/i386.swiftdoc</key>
+		<data>
+		gsFV0l9gJZjBfhLotQqq5XDFUgQ=
+		</data>
+		<key>Modules/sliderMenu.swiftmodule/i386.swiftmodule</key>
+		<data>
+		xYAdhwFRGrSoJB28F9peBoR2Wio=
+		</data>
 		<key>Modules/sliderMenu.swiftmodule/x86_64.swiftdoc</key>
 		<data>
 		ANQW5NroomVV0iyk+nD6ZcqaaPM=
@@ -70,6 +78,28 @@
 			<key>hash2</key>
 			<data>
 			NqkGOpoiCPQYw64NPpixT3UMZOIFbHISXa12pnkNfKM=
+			</data>
+		</dict>
+		<key>Modules/sliderMenu.swiftmodule/i386.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gsFV0l9gJZjBfhLotQqq5XDFUgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			kMhtw1u5MQC2uKnnvgHKrhGM4Ihj8NpWZr34qAn+Tc0=
+			</data>
+		</dict>
+		<key>Modules/sliderMenu.swiftmodule/i386.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xYAdhwFRGrSoJB28F9peBoR2Wio=
+			</data>
+			<key>hash2</key>
+			<data>
+			ujNiXT82SyYRLcZYH+biFixQ5uKXcmZoBmMouDzIyro=
 			</data>
 		</dict>
 		<key>Modules/sliderMenu.swiftmodule/x86_64.swiftdoc</key>
