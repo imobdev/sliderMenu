@@ -13,7 +13,7 @@ The sliderMenu  enables you to  easily make left slider menu!
   s.source           = { :git => 'https://github.com/imobdev/sliderMenu.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '10.0'
-  s.source_files = "sliderMenu/*.{swift}"
+  s.source_files = 'sliderMenu/*.{swift,h}'
   s.resources = "sliderMenu/*.{xib}"
  
 end
